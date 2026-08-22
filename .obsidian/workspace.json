@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "902b2a261c97b2b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "63abd9972657dc63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60f5cc02800b79dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Main/Main/THIS IS A TEXT NOTE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THIS IS A TEXT NOTE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac184a78dc8b75a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "04d1e2bcc998ec22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67459c43945faf7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "309c33df55e96dbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a06f20e24e6f2b4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 903.5
+  },
+  "right": {
+    "id": "01fed770e782936d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc16d4f7ef244e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1433f7d829c77ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main/Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main"
+            }
+          },
+          {
+            "id": "811dce037b413104",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main/Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main"
+            }
+          },
+          {
+            "id": "ccb5a25fea48aab6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc78da18c65d1cbc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ab29212980349454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subjects/Graded Unit/Graded Unit.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "67459c43945faf7f",
+  "lastOpenFiles": [
+    "Main/Untitled.base",
+    "Main/Main/Main/Main.md",
+    "Main/Main/Main/THIS IS A TEXT NOTE.md",
+    "Main/Main/Main/Class Work/HNC/Architecture/~$chitecture Assessment Research(2).docx",
+    "Main/publish/attachments/vercel-project-id.png",
+    "Main/publish/attachments/vercel-create-token.png",
+    "Main/publish/attachments/how-linked-blog-starter-works.png",
+    "Main/publish/attachments/publish-dir-yml.png",
+    "Main/publish/attachments/vercel-account-id.png",
+    "Main/publish/attachments/fork-linked-blog-starter-md.png",
+    "Main/publish/attachments/github-secrets-vercel.png",
+    "Main/publish/attachments/enable-actions-github.png",
+    "Main/publish/attachments/fn-website-demo.gif",
+    "Main/publish/attachments/disconnect-repo-vercel.png",
+    "Main/publish/works-out-of-the-box-with-markdown-files.md",
+    "Main/publish/update-publish-settings-github-actions.md",
+    "Main/publish/statically-generated.md",
+    "Main/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "Main/publish/reinventing-the-wheel.md",
+    "Main/publish/linked-blog-starter-does-not-reinvent-wheel.md",
+    "Main/publish/install-linked-blog-starter-locally.md",
+    "Main/publish/how-linked-blog-starter-works.md",
+    "Main/publish/get-project-id-account-id-and-token-vercel.md",
+    "Main/publish/home.md",
+    "Main/publish/deploy-a-custom-linked-blog-starter.md",
+    "Main/publish/connect-obsidian-vault-with-github.md",
+    "Main/publish/attachments",
+    "Main/publish/accepted-markdown-metadata.md",
+    "Main/publish",
+    "Main/README.md",
+    "Main/Main/Subjects/Working in Cyber/Working in Cyber.md",
+    "Main/Main/Subjects/Wireless Device Security/Wireless Device Security.md",
+    "Main/Main/Subjects/Troubleshooting Computer Problems/Troubleshooting Computer Problems.md",
+    "Main/Main/Subjects/Server Admin/Server Admin.md",
+    "Main/Main/Subjects/Scripting For Security/Scripting for Security.md",
+    "Main/Main/Subjects/SQL/SQL.md",
+    "Main/Main/Subjects/Penetration Testing/Penetration Testing.md",
+    "Main/Main/Subjects/Multi User Operating Systems/Multi User Operating Systems.md",
+    "Main/Main/Subjects/Digital Forensic/Digital Forensics.md",
+    "Main/Main/Subjects/Working in Cyber",
+    "Main/Main/Subjects/Wireless Device Security",
+    "Main/Main/Subjects/Troubleshooting Computer Problems",
+    "Main/Main/Subjects/Server Admin",
+    "Main/Main/Subjects/Scripting For Security",
+    "Main/Main/Subjects/SQL",
+    "Main/Main/Subjects/Penetration Testing",
+    "Untitled.canvas"
+  ]
+}
