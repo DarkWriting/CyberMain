@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Main/Main/THIS IS A TEXT NOTE.md",
+                "file": "Main/Main/Main/Main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THIS IS A TEXT NOTE"
+              "title": "Main"
             }
           }
         ]
@@ -191,9 +191,9 @@
   },
   "active": "67459c43945faf7f",
   "lastOpenFiles": [
-    "Main/Untitled.base",
-    "Main/Main/Main/Main.md",
     "Main/Main/Main/THIS IS A TEXT NOTE.md",
+    "Main/Main/Main/Main.md",
+    "Main/Untitled.base",
     "Main/Main/Main/Class Work/HNC/Architecture/~$chitecture Assessment Research(2).docx",
     "Main/publish/attachments/vercel-project-id.png",
     "Main/publish/attachments/vercel-create-token.png",
@@ -236,7 +236,6 @@
     "Main/Main/Subjects/Server Admin",
     "Main/Main/Subjects/Scripting For Security",
     "Main/Main/Subjects/SQL",
-    "Main/Main/Subjects/Penetration Testing",
     "Untitled.canvas"
   ]
 }
