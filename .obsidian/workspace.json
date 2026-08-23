@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63abd9972657dc63",
+        "id": "b9ab8a185cb45162",
         "type": "tabs",
         "children": [
           {
-            "id": "60f5cc02800b79dd",
+            "id": "a7c33dfac1d359d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,10 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67459c43945faf7f",
+  "active": "a7c33dfac1d359d3",
   "lastOpenFiles": [
-    "Main/Main/Main/sdaadsad.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Main/Main/Main/Main.md",
+    "Main/Main/Main/sdaadsad.md",
     "Main/publish/statically-generated.md",
     "Main/publish/install-linked-blog-starter-locally.md",
     "Main/publish/home.md",
@@ -230,13 +232,11 @@
     "Main/Main/Subjects/SQL/SQL.md",
     "Main/Main/Subjects/Penetration Testing/Penetration Testing.md",
     "Main/Main/Subjects/Multi User Operating Systems/Multi User Operating Systems.md",
-    "Main/Main/Subjects/Digital Forensic/Digital Forensics.md",
     "Main/Main/Subjects/Working in Cyber",
     "Main/Main/Subjects/Wireless Device Security",
     "Main/Main/Subjects/Troubleshooting Computer Problems",
     "Main/Main/Subjects/Server Admin",
     "Main/Main/Subjects/Scripting For Security",
-    "Main/Main/Subjects/SQL",
-    "Untitled.canvas"
+    "Main/Main/Subjects/SQL"
   ]
 }
