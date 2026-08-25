@@ -9,8 +9,7 @@
 | **Tuesday**   | 09:00–12:00 | [[Computer Operating systems]]  | J11W35 | Cyber Lab 2 | Emma Allardice   |
 | **Tuesday**   | 13:00–16:00 | [[Server Admin]]                | J27P35 | Cyber Lab 1 | Ross Tunnicliffe |
 | **Wednesday** | 09:00–12:00 | [[Wireless Device Security]]    | J27R35 | Cyber Lab 2 | David Reid       |
-|               |             |                                 |        |             |                  |
-|               |             |                                 |        |             |                  |
+
 
 ### Block 2 — HND Cyber
 
@@ -33,5 +32,3 @@
 | **Tuesday**   | 13:00–16:00 | [[Computer Operating systems]]        | J11W35 | Cyber Lab 2 | Emma Allardice    |
 | **Wednesday** | 09:00–12:00 | [[Working in Cyber]]                  | J27S34 | B4F4        | Christine Eckford |
 | **Wednesday** | 13:00–16:00 | [[Scripting for Security]]            | J0HD34 | Cyber Lab 2 | David Reid        |
-
-This is my 30 min sync test, if this is updated at 9pm I will know its working.
