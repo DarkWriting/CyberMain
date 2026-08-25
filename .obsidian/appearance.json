@@ -1,3 +1,8 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "MultiMuse",
+  "accentColor": "#593d61",
+  "interfaceFontFamily": "Arial Black",
+  "textFontFamily": "Candara",
+  "baseFontSize": 16
 }
