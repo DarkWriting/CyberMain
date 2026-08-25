@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Main/Subjects/Computer Operating Systems/Computer Operating systems.md",
+                "file": "Main/Main/References/Computer Operating Systems References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Operating systems"
+              "title": "Computer Operating Systems References"
             }
           }
         ]
@@ -194,13 +194,13 @@
   },
   "active": "627b2a9ae1f19aff",
   "lastOpenFiles": [
+    "Main/Main/Subjects/Computer Operating Systems/Computer Operating systems.md",
     "Main/Main/Main/Class Work/HND/Computer Op/~$torial 01 - OS Research.docx",
     "Main/Main/Main/Class Work/HND/Computer Op/~WRL0005.tmp",
     "Main/Main/Main/Class Work/HND/Computer Op/~WRD0004.tmp",
     "Main/Main/Main/Main.md",
     "Main/Main/Main/Class Work/HND/Computer Op/Tutorial 01 - OS Research.docx",
     "conflict-files-obsidian-git.md",
-    "Main/Main/Subjects/Computer Operating Systems/Computer Operating systems.md",
     "Main/Main/Main/Class Work/HND/Computer Op/~$Presentation 01.pptx",
     "Main/Main/Main/Class Work/HND/Computer Op/Presentation 01.pptx",
     "Main/Main/Main/Class Work/HND/Computer Op",
@@ -209,7 +209,6 @@
     "Main/Main/Main/Class Work/HND/A. Pen testing/~$Pen Week 1.pptx",
     "Main/Main/Main/Class Work/HND/A. Pen testing/~$netration Testing01.docx",
     "Main/Main/Main/Class Work/HND/A. Pen testing/~WRL0537.tmp",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/~WRD0529.tmp",
     "2026-08-24.md",
     "Untitled.canvas",
     "Main/Main/References/Intrusion Prevention System References.md",
