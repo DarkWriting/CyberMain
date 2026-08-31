@@ -11,27 +11,27 @@
     {
       "sectionId": 89889,
       "sectionName": "Server Administration",
-      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Server Admin"
+      "moduleFolder": "A. Server Admin"
     },
     {
       "sectionId": 86613,
       "sectionName": "Computer Operating Systems",
-      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Computer Op"
+      "moduleFolder": "A. Computer Op"
     },
     {
       "sectionId": 86616,
       "sectionName": "Intrusion Prevention Systems",
-      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Intrusion Prevention System"
+      "moduleFolder": "A. Intrusion Prevention System"
     },
     {
       "sectionId": 86624,
       "sectionName": "Wireless Device Security",
-      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Wireless"
+      "moduleFolder": "A. Wireless"
     },
     {
       "sectionId": 86625,
       "sectionName": "Penetration Testing J0HB 34",
-      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Pen testing"
+      "moduleFolder": "A. Pen testing"
     }
   ],
   "syncState": {
@@ -54,6 +54,8 @@
     "86624:Tutorial 1 from Presentation 01.docx:": 1782740283,
     "86625:Week 1.pptx:/": 1782740288,
     "86625:Penetration Testing01.docx:": 1782740288,
-    "86625:penetration Testing - Week 2.pptm:/": 1782740288
+    "86625:penetration Testing - Week 2.pptm:/": 1782740288,
+    "86625:Pen testing - Ettercap.docx:/": 1782740289,
+    "86625:Pen testing - Kali Live.pdf:/": 1782740289
   }
 }
