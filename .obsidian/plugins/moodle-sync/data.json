@@ -1,0 +1,59 @@
+{
+  "moodleUrl": "https://moodle.west-lothian.ac.uk",
+  "authMode": "token",
+  "username": "20197790@west-lothian.ac.uk",
+  "password": "",
+  "token": "c9f85372cf9c61603b48250c6d4cf81a",
+  "courseId": 4932,
+  "courseName": "HND CYBER SECURITY 2026-27",
+  "vaultModulesRoot": "Main/Main/Main/Class Work/HND",
+  "mappings": [
+    {
+      "sectionId": 89889,
+      "sectionName": "Server Administration",
+      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Server Admin"
+    },
+    {
+      "sectionId": 86613,
+      "sectionName": "Computer Operating Systems",
+      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Computer Op"
+    },
+    {
+      "sectionId": 86616,
+      "sectionName": "Intrusion Prevention Systems",
+      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Intrusion Prevention System"
+    },
+    {
+      "sectionId": 86624,
+      "sectionName": "Wireless Device Security",
+      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Wireless"
+    },
+    {
+      "sectionId": 86625,
+      "sectionName": "Penetration Testing J0HB 34",
+      "moduleFolder": "Main/Main/Main/Class Work/HND/A. Pen testing"
+    }
+  ],
+  "syncState": {
+    "89889:Assessment Brief.docx:/": 1787662961,
+    "89889:Scenario.docx:/": 1787662942,
+    "89889:Week 01 - Introduction.pptx:/": 1786971780,
+    "89889:Tutorial 01.docx:": 1787487963,
+    "86613:Unit Specification - J11W35.pdf:/": 1782740257,
+    "86613:Presentation 01.pptx:/": 1782740257,
+    "86613:Tutorial 01 - OS Research.docx:": 1782740257,
+    "86616:APA Style Report Walkthrough.pdf:/": 1782740264,
+    "86616:IPS - Week 1.pptx:/": 1782740264,
+    "86616:Intrusion Prevention Systems Tutorial 01.docx:/": 1782740264,
+    "86616:IPS - Week 2.pptx:/": 1782740264,
+    "86616:INTRUSION PREVENTION SYSTEMS TUTORIAL 02.docx:/": 1782740264,
+    "86616:Find-the-imposter_L2.pkt:/": 1782740265,
+    "86616:Intrusion Prevention Systems - tutorial 1.docx:": 1782740264,
+    "86624:Presentation 01 - Introduction.pptx:/": 1782740280,
+    "86624:Tutorial 01 - FHSS and DSSS Investigation.docx:": 1782740283,
+    "86624:Tutorial 1 from Presentation 01.docx:": 1782740283,
+    "86625:Week 1.pptx:/": 1782740288,
+    "86625:Penetration Testing01.docx:": 1782740288,
+    "86625:penetration Testing - Week 2.pptm:/": 1782740288
+  }
+}

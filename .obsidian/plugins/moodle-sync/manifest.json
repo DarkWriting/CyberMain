@@ -1,0 +1,10 @@
+{
+  "id": "moodle-sync",
+  "name": "Moodle Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Downloads files from your Moodle courses into mapped module folders in your vault.",
+  "author": "Andrew",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}

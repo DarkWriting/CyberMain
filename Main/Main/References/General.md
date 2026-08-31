@@ -1,0 +1,1 @@
+"D:\Programs\git\cmd\git.exe" config --global --add safe.directory "D:\Programs\Obsid\Obsidian\cyber"
