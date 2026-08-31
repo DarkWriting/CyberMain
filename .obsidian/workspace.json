@@ -189,6 +189,16 @@
               "icon": "lucide-ghost",
               "title": "trello-plugin"
             }
+          },
+          {
+            "id": "b4b3cc530e56024f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 5
@@ -220,9 +230,10 @@
   },
   "active": "820e152ef40b4a3f",
   "lastOpenFiles": [
+    "Main/Main/Main/Class Work/HND/A. Pen testing/inbox/Lab Setup Guide (4).docx",
+    "Main/Main/Main/Main.md",
     "Home.md",
     "Main/README.md",
-    "Main/Main/Main/Main.md",
     "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Ettercap.docx",
     "Main/Main/Main/Class Work/HND/A. Pen testing/~$n testing - Ettercap.docx",
     "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf",
