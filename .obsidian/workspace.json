@@ -11,14 +11,12 @@
             "id": "820e152ef40b4a3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "docx-view",
               "state": {
-                "file": "Main/Main/Main/Main.md",
-                "mode": "source",
-                "source": false
+                "file": "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Ettercap.docx"
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Pen testing - Ettercap"
             }
           }
         ]
@@ -230,8 +228,8 @@
   },
   "active": "820e152ef40b4a3f",
   "lastOpenFiles": [
-    "Main/Main/Main/Class Work/HND/A. Pen testing/inbox/Lab Setup Guide (4).docx",
     "Main/Main/Main/Main.md",
+    "Main/Main/Main/Class Work/HND/A. Pen testing/inbox/Lab Setup Guide (4).docx",
     "Home.md",
     "Main/README.md",
     "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Ettercap.docx",
@@ -243,7 +241,6 @@
     "Main/Main/Main/Class Work/HND/A. Intrusion Prevention System/inbox",
     "Main/Main/Main/Class Work/HND/A. Computer Op/inbox",
     "Main/Main/Main/Class Work/HND/A. Server Admin/inbox",
-    "Main/Main/Main/Class Work/HND/Main/Main/Main/Class Work/HND/A. Pen testing/inbox/Pen testing - Ettercap.docx",
     "Flash Cards/Untitled.md",
     "Main/Main/In Progress/Wireless - FHSS vs DSSS.md",
     "Main/Main/In Progress/Work Board.md",
