@@ -158,12 +158,28 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "a6862b0f6df85473",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sheet-plus:Create excel file": false,
+      "wikipedia-search:Open Article": false,
+      "obsidian-kanban:Create new board": false,
+      "project-manager:Project manager": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,6 +192,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c3ec74a3b466804",
-  "lastOpenFiles": []
+  "active": "cac37bc4534b8ef5",
+  "lastOpenFiles": [
+    "Main/Main/Main/Main.md"
+  ]
 }
