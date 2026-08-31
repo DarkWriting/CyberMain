@@ -40,9 +40,3 @@ action Git: Commit-and-sync
 color blue
 ```
 ^button-t4x4
-```button
-name Moodle Sync
-type command
-action Moodle Sync: Sync Moodle files into vault
-```
-^button-uqnb
