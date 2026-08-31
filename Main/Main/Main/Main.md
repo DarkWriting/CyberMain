@@ -32,3 +32,12 @@
 | **Tuesday**   | 13:00–16:00 | [[Computer Operating systems]]        | J11W35 | Cyber Lab 2 | Emma Allardice    |
 | **Wednesday** | 09:00–12:00 | [[Working in Cyber]]                  | J27S34 | B4F4        | Christine Eckford |
 | **Wednesday** | 13:00–16:00 | [[Scripting for Security]]            | J0HD34 | Cyber Lab 2 | David Reid        |
+
+
+```button
+name Git Sync
+type command
+action Git: Commit-and-sync
+color blue
+```
+^button-t4x4

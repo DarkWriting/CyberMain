@@ -1,0 +1,10 @@
+{
+  "buttons:button-maker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Pause"
+    }
+  ]
+}
