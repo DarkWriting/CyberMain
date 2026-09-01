@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Main/Main/Main/Main.md",
+            "file": "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -192,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cac37bc4534b8ef5",
+  "active": "8c3ec74a3b466804",
   "lastOpenFiles": [
-    "Main/Main/Main/Main.md"
+    "Main/Main/kali-linux-2026.2-live-amd64.iso.torrent",
+    "Main/Main/Main/Main.md",
+    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf"
   ]
 }
