@@ -11,12 +11,14 @@
             "id": "820e152ef40b4a3f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf"
+                "file": "Main/Main/Main/Main.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Pen testing - Kali Live"
+              "icon": "lucide-file",
+              "title": "Main"
             }
           }
         ]
@@ -228,6 +230,8 @@
   },
   "active": "820e152ef40b4a3f",
   "lastOpenFiles": [
+    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf",
+    "Main/Main/kali-linux-2026.2-live-amd64.iso.torrent",
     "Main/Main/Main/Class Work/HND/A. Pen testing/Penetration Testing01.docx",
     "Main/Main/Main/Class Work/HND/A. Computer Op/inbox/Tutorial 02 - Types of Operating System.docx",
     "Main/Main/Main/Class Work/HND/A. Computer Op/Tutorial 01 - OS Research.docx",
@@ -240,9 +244,7 @@
     "Home.md",
     "Projects/dddd.md",
     "Main/README.md",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf",
     "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Ettercap.docx",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/inbox/Lab Setup Guide (4).docx",
     "Flash Cards/Untitled.md",
     "Main/Main/In Progress/Wireless - FHSS vs DSSS.md",
     "Main/Main/In Progress/Work Board.md",
