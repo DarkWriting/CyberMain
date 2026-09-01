@@ -189,6 +189,16 @@
               "icon": "lucide-ghost",
               "title": "trello-plugin"
             }
+          },
+          {
+            "id": "b4b3cc530e56024f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 5
@@ -221,18 +231,19 @@
   "active": "820e152ef40b4a3f",
   "lastOpenFiles": [
     "Home.md",
+    "Projects/dddd.md",
     "Main/README.md",
-    "Main/Main/Main/Main.md",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Ettercap.docx",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/~$n testing - Ettercap.docx",
     "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf",
+    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Ettercap.docx",
+    "Main/Main/Main/Main.md",
+    "Main/Main/Main/Class Work/HND/A. Pen testing/inbox/Lab Setup Guide (4).docx",
+    "Main/Main/Main/Class Work/HND/A. Pen testing/~$n testing - Ettercap.docx",
     "Main/Main/Main/Class Work/HND/A. Pen testing/inbox",
     "Main/Main/Main/Class Work/HND/A. Wireless/inbox",
     "Main/Main/Main/Class Work/HND/A. Wireless",
     "Main/Main/Main/Class Work/HND/A. Intrusion Prevention System/inbox",
     "Main/Main/Main/Class Work/HND/A. Computer Op/inbox",
     "Main/Main/Main/Class Work/HND/A. Server Admin/inbox",
-    "Main/Main/Main/Class Work/HND/Main/Main/Main/Class Work/HND/A. Pen testing/inbox/Pen testing - Ettercap.docx",
     "Flash Cards/Untitled.md",
     "Main/Main/In Progress/Wireless - FHSS vs DSSS.md",
     "Main/Main/In Progress/Work Board.md",
@@ -240,7 +251,6 @@
     "Main/Main/Subjects/Wireless Device Security/Wireless Device Security.md",
     "Main/Main/References/Computer Operating Systems References.md",
     "Main/Main/References/General.md",
-    "Projects/dddd.md",
     "Projects/dddd_tasks/sadadas.md",
     "Main/Main/Subjects/Computer Operating Systems/Computer Operating systems.md",
     "Main/Main/References/Graded Unit References.md",
