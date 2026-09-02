@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79f8187a7aa7ef48",
-            "type": "leaf",
-            "state": {
-              "type": "omni-viewer.pptViewer",
-              "state": {
-                "file": "Main/Main/Main/Class Work/HND/A. Server Admin/inbox/Week 02 - Secure Infrastructure.pptx"
-              },
-              "icon": "presentation",
-              "title": "Week 02 - Secure Infrastructure.pptx"
-            }
-          },
-          {
             "id": "9e0b605c9a386276",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Flash Cards/Network.excalidraw.md"
+                "file": "Main/Main/Main/Class Work/HND/A. Server Admin/Network.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Network.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 639.5
   },
   "right": {
     "id": "01fed770e782936d",
@@ -208,8 +194,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -242,19 +228,19 @@
   },
   "active": "9e0b605c9a386276",
   "lastOpenFiles": [
+    "Imported/Tutorial 02 - Wi-Fi.md",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/Week 02 - Secure Infrastructure.pptx",
+    "Imported",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/Network.excalidraw.md",
+    "Main/Main/Main/Class Work/HND/A. Wireless/Tutorial 02 - Wi-Fi.docx",
+    "Main/Main/Main/Class Work/HND/A. Wireless/Tutorial 1 from Presentation 01 Explanations.docx",
+    "Main/Main/Main/Class Work/HND/A. Wireless/Presentation 02 Wireless Device Securities.pptx",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/Tutorial 02 - Planning a Secure Server Network.docx",
     "Main/Main/Main/Class Work/HND/A. Server Admin/~$mpbell_Connor_Week_01.docx",
-    "Main/Main/Main/Class Work/HND/A. Server Admin/inbox/Week 02 - Secure Infrastructure.pptx",
-    "Flash Cards/Network.excalidraw.md",
     "Main/Main/Main/Class Work/HND/A. Server Admin/~$Week 01 - Introduction.pptx",
     "Main/Main/Main/Class Work/HND/A. Server Admin/Week 01 - Introduction.pptx",
     "Main/Main/Main/Main.md",
     "Main/Main/Main/Class Work/HND/A. Server Admin/inbox/~$Week 02 - Secure Infrastructure.pptx",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf",
-    "Main/Main/kali-linux-2026.2-live-amd64.iso.torrent",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/Penetration Testing01.docx",
-    "Main/Main/Main/Class Work/HND/A. Computer Op/inbox/Tutorial 02 - Types of Operating System.docx",
-    "Main/Main/Main/Class Work/HND/A. Computer Op/Tutorial 01 - OS Research.docx",
-    "Main/Main/Main/Class Work/HND/A. Server Admin/Tutorial 01.docx",
     "Home.md",
     "Projects/dddd.md",
     "Main/README.md",
@@ -277,7 +263,6 @@
     "Drawing 2026-08-26 11.41.50.excalidraw.md",
     "Projects/Untitled.md",
     "Projects/dddd_tasks/new-task.md",
-    "Flash/TEST2.md",
     "Main/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "Untitled.canvas",
