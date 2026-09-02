@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "15eb80ff544d1903",
+        "id": "755af8f19ecdac00",
         "type": "tabs",
         "children": [
           {
-            "id": "820e152ef40b4a3f",
+            "id": "9e0b605c9a386276",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Main/Main/Main/Main.md",
-                "mode": "source",
-                "source": false
+                "file": "Main/Main/Main/Class Work/HND/A. Server Admin/Network.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Main"
+              "icon": "excalidraw-icon",
+              "title": "Network.excalidraw"
             }
           }
         ]
@@ -83,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 639.5
   },
   "right": {
     "id": "01fed770e782936d",
@@ -196,8 +194,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -228,23 +226,24 @@
       "moodle-sync:Sync Moodle files": false
     }
   },
-  "active": "820e152ef40b4a3f",
+  "active": "9e0b605c9a386276",
   "lastOpenFiles": [
-    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Kali Live.pdf",
-    "Main/Main/kali-linux-2026.2-live-amd64.iso.torrent",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/Penetration Testing01.docx",
-    "Main/Main/Main/Class Work/HND/A. Computer Op/inbox/Tutorial 02 - Types of Operating System.docx",
-    "Main/Main/Main/Class Work/HND/A. Computer Op/Tutorial 01 - OS Research.docx",
-    "Main/Main/Main/Class Work/HND/A. Server Admin/Tutorial 01.docx",
-    "Main/Main/Main/Class Work/HND/A. Server Admin/Scenario.docx",
-    "Main/Main/Main/Class Work/HND/A. Server Admin/Assessment Brief.docx",
+    "Imported/Tutorial 02 - Wi-Fi.md",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/Week 02 - Secure Infrastructure.pptx",
+    "Imported",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/Network.excalidraw.md",
+    "Main/Main/Main/Class Work/HND/A. Wireless/Tutorial 02 - Wi-Fi.docx",
+    "Main/Main/Main/Class Work/HND/A. Wireless/Tutorial 1 from Presentation 01 Explanations.docx",
+    "Main/Main/Main/Class Work/HND/A. Wireless/Presentation 02 Wireless Device Securities.pptx",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/Tutorial 02 - Planning a Secure Server Network.docx",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/~$mpbell_Connor_Week_01.docx",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/~$Week 01 - Introduction.pptx",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/Week 01 - Introduction.pptx",
     "Main/Main/Main/Main.md",
-    "Main/Main/Main/Class Work/HND/A. Computer Op/inbox/~$Presentation 02.pptx",
-    "Main/Main/Main/Class Work/HND/A. Computer Op/inbox/Presentation 02.pptx",
+    "Main/Main/Main/Class Work/HND/A. Server Admin/inbox/~$Week 02 - Secure Infrastructure.pptx",
     "Home.md",
     "Projects/dddd.md",
     "Main/README.md",
-    "Main/Main/Main/Class Work/HND/A. Pen testing/Pen testing - Ettercap.docx",
     "Flash Cards/Untitled.md",
     "Main/Main/In Progress/Wireless - FHSS vs DSSS.md",
     "Main/Main/In Progress/Work Board.md",
@@ -264,8 +263,6 @@
     "Drawing 2026-08-26 11.41.50.excalidraw.md",
     "Projects/Untitled.md",
     "Projects/dddd_tasks/new-task.md",
-    "Flash/TEST2.md",
-    "Flash/Untitled.md",
     "Main/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "Untitled.canvas",
